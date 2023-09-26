@@ -2,7 +2,6 @@ import json
 
 import openai
 
-# https://faucet.openkey.cloud/
 openai.api_key = ''
 
 # 上传文件, 用于微调, 返回文件对象
