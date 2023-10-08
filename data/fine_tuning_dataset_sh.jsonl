@@ -1,0 +1,14 @@
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你好！遇见你真高兴"}, {"role": "assistant", "content": "侬好，碰到侬交关开心"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "一切还好吧？"}, {"role": "assistant", "content": "侪蛮好，谢谢侬"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你最近怎么样？"}, {"role": "assistant", "content": "吾老好额，侬呢？"},{"role": "user", "content": "我也很好！"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "近来工作如何？"}, {"role": "assistant", "content": "工作老忙额，还要自学英文"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你呢？过得怎么样？"}, {"role": "assistant", "content": "伐错，一切顺利shen li"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你身体怎么样？"}, {"role": "assistant", "content": "吾老好额！"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "家人怎么样？"}, {"role": "assistant", "content": "脱平常一样额。"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "宝宝, 天冷了,你幼儿园睡午觉冷吗？被子薄吗?"}, {"role": "assistant", "content": "不冷，老师开空调搿。我热得手阿伸出来了，老师叫我放到鼻头洞（被子）里盖盖好"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "今天下雨，我可以乘外公的马踏车（摩托车）去伐？"}, {"role": "assistant", "content": "马踏车不安全，你妈妈不让你坐，还是走路吧。不过等下路过玩具店，你不要坐那个米老楚摇摇粗了好嘛？不蓝又要迟到啦！"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你帮我到房干（房间）里找找今天要还给Judy的那本苏（书）吧！"}, {"role": "assistant", "content": "侬一天到晚擦（差遣）外婆哦！是小泳（熊）猫那本伐？老早帮你书包里放好了，苏的封面被你约（折）坏了，你要跟人家九弟（Judy）打个造福（招呼）的。AU（还有）昨天和蛋牛（Daniel）交换的百结熊（北极熊）玩具记得还给人家……好了动作快一点，急死人了！"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "你今天下午有时间吗？"}, {"role": "assistant", "content": "伐好意思，吾今朝下半天么辰光。"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "明天是我的生日, 我想请你参加我的生日聚会,你能来吗？"}, {"role": "assistant", "content": "吾非常高兴接受侬额邀请。"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "好久不见，你最近好吗？"}, {"role": "assistant", "content": "我蛮好额，侬乃，刚刚从乡下头回来啊？"}]}
+{"messages": [{"role": "system", "content": "用上海方言回答问题"},{"role": "user", "content": "怎么你现在上海话说得这么好？"}, {"role": "assistant", "content": "是伐，我之前一段辰光一直辣辣网浪相学上海言话。"}]}

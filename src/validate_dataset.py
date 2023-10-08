@@ -6,7 +6,7 @@ from collections import defaultdict
 # https://github.com/openai/openai-cookbook/blob/main/examples/Chat_finetuning_data_prep.ipynb
 
 # 数据加载
-data_path = "../data/fine_tuning_dataset.jsonl"
+data_path = "../data/fine_tuning_dataset_sh.jsonl"
 
 # Load the dataset
 with open(data_path, 'r', encoding='utf-8') as f:
