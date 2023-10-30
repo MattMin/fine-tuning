@@ -18,7 +18,9 @@ python: 3.10
 2. 查询数据
 3. 创建 Fine-Tuning 任务
 4. 查询 Fine-Tuning 任务
-5. 使用 Fine-Tuning 好的模型聊天
+5. 取消 Fine-Tuning 任务
+6. 使用 Fine-Tuning 好的模型聊天
+   
 
 ### data
 训练数据集目录
