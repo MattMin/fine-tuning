@@ -2,6 +2,8 @@
 
 一个简单的 OpenAI Fine-Tuning 接口 Demo
 
+python: 3.10
+
 ## 结构说明
 
 ### src
