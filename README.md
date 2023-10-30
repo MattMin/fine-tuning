@@ -15,7 +15,7 @@ python: 3.10
 #### start.py 
 包含以下功能, 使用时打开对应的注释即可
 1. 上传训练数据
-2. 查询数据
+2. 查询上传的文件数据
 3. 创建 Fine-Tuning 任务
 4. 查询 Fine-Tuning 任务
 5. 取消 Fine-Tuning 任务
