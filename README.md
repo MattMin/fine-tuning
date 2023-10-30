@@ -24,6 +24,17 @@ python: 3.10
 
 ### /data
 训练数据集目录
+#### fine_tuning_dataset_book.jsonl
+给一个书名, 返回 Json 格式的书的信息
+
+#### fine_tuning_dataset_lindaiyu.jsonl
+模仿林黛玉回答问题
+
+#### fine_tuning_dataset_sh.jsonl
+用上海话回答问题
+
+#### fine_tuning_dataset_zhenhuan.jsonl
+用甄嬛体回答问题
 
 ## 其他说明
 可以对已经 Fine-Tuning 的模型继续 Fine-Tuning, 这样可以在数据集有追加时不用重新训练模型
