@@ -6,7 +6,7 @@ python: 3.10
 
 ## 结构说明
 
-### src
+### /src
 代码目录
 
 #### validate_dataset.py 
@@ -22,7 +22,7 @@ python: 3.10
 6. 使用 Fine-Tuning 好的模型聊天
    
 
-### data
+### /data
 训练数据集目录
 
 ## 其他说明
